@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\LoopRelease</_PublishTargetUrl>
+    <History>True|2023-06-26T19:39:37.0593877Z;True|2023-06-26T11:25:58.2363352-06:00;False|2023-06-26T11:25:04.8370444-06:00;True|2023-06-26T11:21:03.7684178-06:00;True|2023-06-26T11:20:51.0260133-06:00;True|2023-06-26T11:11:38.3517523-06:00;True|2023-06-26T11:08:29.8285096-06:00;True|2023-06-26T11:05:47.9688124-06:00;False|2023-06-26T11:05:08.5004509-06:00;False|2023-06-26T11:04:11.3728740-06:00;False|2023-06-26T10:57:29.7762632-06:00;False|2023-06-26T10:56:39.3587778-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
